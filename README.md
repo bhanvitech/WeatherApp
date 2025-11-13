@@ -1,3 +1,9 @@
+# Weather Search App
+
+This project provides a React-based interface for searching current weather conditions by city using the OpenWeatherMap API.
+
+- [API & Component Documentation](docs/api-documentation.md)
+
 ## Running React on Repl.it
 
 [React](https://reactjs.org/) is a popular JavaScript library for building user interfaces.
